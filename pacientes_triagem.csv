@@ -1,0 +1,31 @@
+﻿ID_Paciente,Nome,Idade,Sintoma_Principal,Sinais_Vitais,Classe_RETTS,Prioridade_RETTS,Hora_Chegada
+P001,Carlos Silva,62,Dor Toracica Subita,150/90 / 110 bpm / 93%,Laranja,2,14:05:00
+P002,Ana Souza,24,Entorse no Tornozelo,120/80 / 72 bpm / 98%,Verde,4,14:07:00
+P003,Marcos Lima,45,Parada Respiratoria,90/60 / 40 bpm / 82%,Vermelho,1,14:10:00
+P004,Beatriz Alves,71,Febre Alta e Confusao,130/85 / 95 bpm / 95%,Amarelo,3,14:12:00
+P005,Joao Pereira,30,Renovacao de Receita,120/75 / 68 bpm / 99%,Azul,5,14:15:00
+P006,Maria Oliveira,58,Incisao com Sangramento,110/70 / 105 bpm / 96%,Laranja,2,14:18:00
+P007,Lucas Mendes,19,Abrasao Simples no Joelho,118/75 / 70 bpm / 99%,Azul,5,14:20:00
+P008,Fernanda Costa,38,Crise Asmatica Grave,140/95 / 125 bpm / 89%,Vermelho,1,14:22:00
+P009,Roberto Rocha,67,Suspeita de AVC (Disartria),175/100 / 90 bpm / 94%,Laranja,2,14:25:00
+P010,Juliana Paes,29,Dor Abdominal Moderada,125/80 / 82 bpm / 97%,Amarelo,3,14:28:00
+P011,Gabriel Santos,12,Suspeita de Fratura no Braco,115/75 / 88 bpm / 98%,Verde,4,14:30:00
+P012,Teresa Farias,83,Rebaixamento do Nivel de Consciencia,85/50 / 45 bpm / 85%,Vermelho,1,14:33:00
+P013,Paulo Ramos,51,Lombalgia Cronica,130/80 / 75 bpm / 98%,Verde,4,14:35:00
+P014,Camila Martins,34,Cefaleia Intensa Intoleravel,145/90 / 92 bpm / 96%,Laranja,2,14:38:00
+P015,Andre Barbosa,22,Atestado e Troca de Curativo,120/70 / 65 bpm / 99%,Azul,5,14:40:00
+P016,Patricia Nogueira,41,Vertigem e Nauseas Persistentes,135/85 / 84 bpm / 97%,Amarelo,3,14:42:00
+P017,Rodrigo Ribeiro,27,Laceracao Superficial no Dedo,122/78 / 74 bpm / 98%,Verde,4,14:45:00
+P018,Sofia Carvalho,5,Febre de 38.2 C sem Sintoma Grave,110/70 / 100 bpm / 98%,Amarelo,3,14:48:00
+P019,Marcelo Teixeira,50,Choque Anafilatico,70/40 / 140 bpm / 86%,Vermelho,1,14:50:00
+P020,Vanessa Dias,36,Infeccao Urinaria com Disuria,120/80 / 78 bpm / 98%,Amarelo,3,14:53:00
+P021,Thiago Castro,65,Descompensacao Diabetica,160/90 / 102 bpm / 94%,Laranja,2,14:55:00
+P022,Helena Lopes,28,Picada de Inseto sem Lesao Severa,115/75 / 70 bpm / 99%,Azul,5,14:58:00
+P023,Bruno Vieira,44,Trauma Ocular Por Impacto,130/85 / 85 bpm / 97%,Laranja,2,15:00:00
+P024,Leticia Cardoso,31,Resfriado Comum,118/76 / 72 bpm / 99%,Verde,4,15:03:00
+P025,Antonio Moreira,76,Arritmia Cardiaca Solida,140/95 / 135 bpm / 91%,Vermelho,1,15:05:00
+P026,Danielle Duarte,23,Sinusite Aguda,120/80 / 76 bpm / 98%,Verde,4,15:08:00
+P027,Eduardo Freitas,48,Colica Renal Aguda,150/95 / 110 bpm / 97%,Laranja,2,15:10:00
+P028,Isadora Nunes,17,Sintomas de Dispepsia (Azia),115/70 / 68 bpm / 99%,Azul,5,15:12:00
+P029,Fabio Machado,39,Crise Hipertensiva Assintomatica,180/110 / 80 bpm / 97%,Amarelo,3,15:15:00
+P030,Renata Frota,54,Contusao no Ombro,125/80 / 74 bpm / 98%,Verde,4,15:18:00
