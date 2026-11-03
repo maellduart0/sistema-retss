@@ -14,7 +14,7 @@ st.set_page_config(
 # Carregar os dados
 @st.cache_data
 def carregar_dados():
-    caminho = Path(__file__).parent / "dados" / "pacientes_triagem.csv"
+    caminho = Path(__file__).parent / "pacientes_triagem.csv"
     dados = pd.read_csv(caminho, encoding="utf-8-sig")
     dados["Prioridade_RETTS"] = pd.to_numeric(
         dados["Prioridade_RETTS"]
